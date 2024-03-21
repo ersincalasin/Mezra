@@ -1,0 +1,37 @@
+body{
+    /*background-color: azure;
+    background-image:url(isvec.jpg);
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;*/
+
+    background: azure url(isvec.jpg) right top no-repeat fixed;
+    background-size: cover;
+
+}
+input{
+    background-color: antiquewhite;
+    color:red
+}
+form{
+    background-color: hsl(337, 68%, 44%);
+    opacity: 0;
+}
+
+.sinif1{
+    background-color: violet;
+    color:blue;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#ozelId{
+    background-color: red;
+    padding: 10px;
+}
+
+[title="BASLIK"]{
+    border-radius: 10px;
+    box-shadow: 0 0 10px blue;
+}
